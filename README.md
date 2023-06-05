@@ -1,7 +1,7 @@
 ## Informations
 
 This is a simple project I made to pratice the Svelte framework.
-I'm not a professional developer, I never learned programming at school so my code is clearly not the best optimized code possible.
+I'm not a professional developer, I never learned programming at school so my code is clearly not the best optimized code possible but I'm trying to figure out how things are working =)
 
 ## Developing
 
