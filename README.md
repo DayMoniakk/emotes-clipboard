@@ -1,3 +1,7 @@
+## Infos
+
+This is a simple project I made to pratice the Svelte framework.
+
 ## Developing
 
 Once you've installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
