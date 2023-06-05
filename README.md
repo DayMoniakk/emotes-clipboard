@@ -1,6 +1,7 @@
-## Infos
+## Informations
 
 This is a simple project I made to pratice the Svelte framework.
+I'm not a professional developer, I never learned programming at school so my code is clearly not the best optimized code possible.
 
 ## Developing
 
